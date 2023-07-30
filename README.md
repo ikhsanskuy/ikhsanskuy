@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel and Vue.js**
 
-- 👯 I’m looking to collaborate on **everyone to help the world better place**
+- 👯 I’m looking to collaborate with **everyone to help the world to be better place🌏🌱**
 
 - ⚡ Fun fact **I think I am funny**
 
