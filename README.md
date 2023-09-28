@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhsanskuy&label=Profile%20views&color=0e75b6&style=flat" alt="ikhsanskuy" /> </p>
 
-- 🔭 I’m currently working on **Freelance Web Developer**
+- 🔭 I’m currently working as **Freelance Web Developer**
 
 - 🌱 I’m currently learning **Laravel and Vue.js**
 
