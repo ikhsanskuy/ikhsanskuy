@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ikhsan Nusaly</h1>
-<h3 align="center">Software edgyneer that currently love a fullstack web development</h3>
+<h3 align="center">Software edgyneer that currently love a fullstack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhsanskuy&label=Profile%20views&color=0e75b6&style=flat" alt="ikhsanskuy" /> </p>
 
-- 🔭 I’m currently working as **Freelance Web Developer**
+- 🔭 I’m currently working as **Software Engineer**
 
 - 🌱 I’m currently learning **Laravel and Vue.js**
 
